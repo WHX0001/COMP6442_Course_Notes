@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ff5fac7-a6c2-4e8c-8036-5d46d708df3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Notes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/Information/Information.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/Information/Structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/NotificationFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/PushNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Factory/SMSNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Observer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Observer/Observertest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Observer/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Singleton/SingletonConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Singleton/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/State/DeliveredState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/State/OrderedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/State/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/State/PackageState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/State/ReceivedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/State/StateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MjSjJY9yXYhqVYlEZbyUjrDfRL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Design_Patterns/Factory/Information" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StateTest">
+    <configuration name="NotificationService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Factory.NotificationService" />
+      <module name="Course Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Observertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Observer.Observertest" />
+      <module name="Course Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.Observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Singleton.SingletonTest" />
+      <module name="Course Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.State.StateTest" />
+      <module name="Course Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.State.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StateTest" />
+        <item itemvalue="Application.Observertest" />
+        <item itemvalue="Application.SingletonTest" />
+        <item itemvalue="Application.NotificationService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ff5fac7-a6c2-4e8c-8036-5d46d708df3c" name="Changes" comment="" />
+      <created>1678279634598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678279634598</updated>
+      <workItem from="1678279635755" duration="9055000" />
+      <workItem from="1678329438576" duration="627000" />
+      <workItem from="1678417223528" duration="3979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
